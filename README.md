@@ -1,5 +1,5 @@
 # Móc khoá LED trái tim
-*Móc khoá LED trái tim được phát triển dựa trên ATTINY13*
+*Móc khoá LED trái tim được phát triển dựa trên ATTiny13*
 
 ### Giới thiệu
 Móc khoá LED trái tim được sử dụng làm sản phẩm trang trí, tặng bạn bè, người yêu. Được thiết kế đơn giản nhỏ gọn, dễ dàng để gắn vào móc khoá của bạn.
