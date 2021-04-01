@@ -4,7 +4,7 @@
 ### Giới thiệu
 Móc khoá LED trái tim được sử dụng làm sản phẩm trang trí, tặng bạn bè, người yêu. Được thiết kế đơn giản nhỏ gọn, dễ dàng để gắn vào móc khoá của bạn.
 
-![Móc khoá LED trái tim](/images/moc-khoa-led-trai-tim-1.png)
+![Móc khoá LED trái tim](/images/image-01.png)
 
 ### Tính năng
 - Tự rơi vào chế độ ngủ để tiết kiệm pin khi không sử dụng
@@ -15,3 +15,4 @@ Móc khoá LED trái tim được sử dụng làm sản phẩm trang trí, tặ
 
 ### Thông số kỹ thuật
 - Nguồn sạc: 5VDC MicroUSB
+- 16 LED đơn hiển thị
