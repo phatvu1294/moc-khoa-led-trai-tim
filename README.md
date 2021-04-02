@@ -16,3 +16,6 @@ Móc khoá LED trái tim được sử dụng làm sản phẩm trang trí, tặ
 ### Thông số kỹ thuật
 - Nguồn sạc: 5VDC MicroUSB
 - 16 LED đơn hiển thị
+
+### Video demo sản phẩm
+[https://www.youtube.com/watch?v=zzco12Td-20](https://www.youtube.com/watch?v=zzco12Td-20)
