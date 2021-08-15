@@ -1,4 +1,4 @@
-# Móc Khóa LED Trái Tim Public
+# Móc khóa LED trái tim
 *Móc khoá LED trái tim được phát triển dựa trên ATTiny13*
 
 ### Giới thiệu
